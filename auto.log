@@ -1,0 +1,104 @@
+2021-07-01 16:44:47,028 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //a[@class='dynamic-link' and (text()= 'Sign In')] is not returned
+2021-07-01 16:44:47,029 : ERROR : SeleniumDrivers : Element with locatortype xpath and locator //a[@class='dynamic-link' and (text()= 'Sign In')] is not clicked
+2021-07-01 16:44:47,059 : INFO : SeleniumDrivers : Elementlist with locatortype xpath and locator //div[@class='form-group']//input[@placeholder='Email Address'] is returned
+2021-07-01 16:44:47,059 : INFO : SeleniumDrivers : Element with locator //div[@class='form-group']//input[@placeholder='Email Address'] and locatortype xpathis not present
+2021-07-01 16:44:48,688 : INFO : TestResultStatus : screenshot taken and saved at C:\Users\Punam\workspace_python\practicetest\Base\../Screenshots/
+2021-07-01 16:44:48,690 : ERROR : TestResultStatus : ##Validation is failed for sign-in
+2021-07-01 16:44:48,691 : ERROR : TestResultStatus : Test Case test_signin failed
+2021-07-01 16:44:48,749 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //div[@class='form-group']//input[@placeholder='Email Address'] is not returned
+2021-07-01 16:44:48,750 : ERROR : SeleniumDrivers : Data with locatortype xpath and locator //div[@class='form-group']//input[@placeholder='Email Address'] is not send
+2021-07-01 16:44:48,776 : INFO : SeleniumDrivers : Element with locatortype css and locator #password is not returned
+2021-07-01 16:44:48,776 : ERROR : SeleniumDrivers : Data with locatortype css and locator #password is not send
+2021-07-01 16:44:48,794 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //input[@value='Login'] is not returned
+2021-07-01 16:44:48,794 : ERROR : SeleniumDrivers : Element with locatortype xpath and locator //input[@value='Login'] is not clicked
+2021-07-01 16:44:48,809 : INFO : SeleniumDrivers : Elementlist with locatortype xpath and locator //img[@class='zl-navbar-rhs-img '] is returned
+2021-07-01 16:44:48,809 : INFO : SeleniumDrivers : Element with locator //img[@class='zl-navbar-rhs-img '] and locatortype xpathis not present
+2021-07-01 16:44:48,918 : INFO : TestResultStatus : screenshot taken and saved at C:\Users\Punam\workspace_python\practicetest\Base\../Screenshots/
+2021-07-01 16:44:48,918 : ERROR : TestResultStatus : ##Validation is failed for Login Test
+2021-07-01 16:44:48,918 : ERROR : TestResultStatus : Test Case test_login failed
+2021-07-01 16:44:48,942 : INFO : SeleniumDrivers : Element with locatortype css and locator [name='course'] is not returned
+2021-07-01 16:44:48,942 : ERROR : SeleniumDrivers : Data with locatortype css and locator [name='course'] is not send
+2021-07-01 16:44:48,957 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='fa-search'] is not returned
+2021-07-01 16:44:48,957 : ERROR : SeleniumDrivers : Element with locatortype css and locator [class*='fa-search'] is not clicked
+2021-07-01 16:44:48,972 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //h4[@class='dynamic-heading' and contains(text(),'JavaScript')] is not returned
+2021-07-01 16:44:48,972 : ERROR : SeleniumDrivers : Element with locatortype xpath and locator //h4[@class='dynamic-heading' and contains(text(),'JavaScript')] is not clicked
+2021-07-01 16:44:48,988 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //h1[contains(@class, 'dynamic-heading')] is not returned
+2021-07-01 16:44:48,988 : ERROR : SeleniumDrivers : Text not returned for element with locator //h1[contains(@class, 'dynamic-heading')] and locatortype xpath
+2021-07-01 16:44:49,047 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //button[contains(@class, 'dynamic-button')] is not returned
+2021-07-01 16:44:49,047 : ERROR : SeleniumDrivers : Element with locatortype xpath and locator //button[contains(@class, 'dynamic-button')] is not clicked
+2021-07-01 16:44:49,062 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='sp-buy'] is not returned
+2021-07-01 16:44:49,071 : ERROR : SeleniumDrivers : scrolling failed to element with locator [class*='sp-buy'] and locatortype css
+2021-07-01 16:44:49,085 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //iframe[contains(@title, 'Secure card number')] is not returned
+2021-07-01 16:44:49,090 : INFO : SeleniumDrivers : switched to frame with locator //iframe[contains(@title, 'Secure card number')] and locatortype xpath
+2021-07-01 16:44:49,104 : INFO : SeleniumDrivers : Element with locatortype css and locator [placeholder='Card Number'] is not returned
+2021-07-01 16:44:49,105 : ERROR : SeleniumDrivers : Data with locatortype css and locator [placeholder='Card Number'] is not send
+2021-07-01 16:44:49,108 : INFO : SeleniumDrivers : switched to default from frame
+2021-07-01 16:44:49,125 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //iframe[contains(@title, 'Secure expiration date')] is not returned
+2021-07-01 16:44:49,128 : INFO : SeleniumDrivers : switched to frame with locator //iframe[contains(@title, 'Secure expiration date')] and locatortype xpath
+2021-07-01 16:44:49,142 : INFO : SeleniumDrivers : Element with locatortype css and locator [placeholder='MM / YY'] is not returned
+2021-07-01 16:44:49,142 : ERROR : SeleniumDrivers : Data with locatortype css and locator [placeholder='MM / YY'] is not send
+2021-07-01 16:44:49,145 : INFO : SeleniumDrivers : switched to default from frame
+2021-07-01 16:44:49,160 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //iframe[contains(@title, 'Secure CVC')] is not returned
+2021-07-01 16:44:49,163 : INFO : SeleniumDrivers : switched to frame with locator //iframe[contains(@title, 'Secure CVC')] and locatortype xpath
+2021-07-01 16:44:49,179 : INFO : SeleniumDrivers : Element with locatortype css and locator [placeholder='Security Code'] is not returned
+2021-07-01 16:44:49,179 : ERROR : SeleniumDrivers : Data with locatortype css and locator [placeholder='Security Code'] is not send
+2021-07-01 16:44:49,182 : INFO : SeleniumDrivers : switched to default from frame
+2021-07-01 16:44:49,196 : INFO : SeleniumDrivers : Element with locatortype name and locator country-list is not returned
+2021-07-01 16:44:49,196 : ERROR : SeleniumDrivers : Dropdown with locator country-listand locatortype name is not found
+2021-07-01 16:44:49,206 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='sp-buy'] is not returned
+2021-07-01 16:44:49,206 : ERROR : SeleniumDrivers : Element with locatortype css and locator [class*='sp-buy'] is not clicked
+2021-07-01 16:45:06,182 : ERROR : SeleniumDrivers : Issue with wait
+2021-07-01 16:46:48,783 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //a[@class='dynamic-link' and (text()= 'Sign In')] is returned
+2021-07-01 16:46:51,319 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //a[@class='dynamic-link' and (text()= 'Sign In')] is clicked
+2021-07-01 16:46:51,382 : INFO : SeleniumDrivers : Elementlist with locatortype xpath and locator //div[@class='form-group']//input[@placeholder='Email Address'] is returned
+2021-07-01 16:46:51,382 : INFO : SeleniumDrivers : Element with locator //div[@class='form-group']//input[@placeholder='Email Address'] and locatortype xpathis present
+2021-07-01 16:46:51,382 : INFO : TestResultStatus : ##Validation is pass for sign-in
+2021-07-01 16:46:51,383 : INFO : TestResultStatus : Test Case test_signinpassed
+2021-07-01 16:46:51,401 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //div[@class='form-group']//input[@placeholder='Email Address'] is returned
+2021-07-01 16:46:52,832 : INFO : SeleniumDrivers : Data with locatortype xpath and locator //div[@class='form-group']//input[@placeholder='Email Address'] is send
+2021-07-01 16:46:52,855 : INFO : SeleniumDrivers : Element with locatortype css and locator #password is returned
+2021-07-01 16:46:53,004 : INFO : SeleniumDrivers : Data with locatortype css and locator #password is send
+2021-07-01 16:46:53,022 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //input[@value='Login'] is returned
+2021-07-01 16:47:01,269 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //input[@value='Login'] is clicked
+2021-07-01 16:47:01,295 : INFO : SeleniumDrivers : Elementlist with locatortype xpath and locator //img[@class='zl-navbar-rhs-img '] is returned
+2021-07-01 16:47:01,295 : INFO : SeleniumDrivers : Element with locator //img[@class='zl-navbar-rhs-img '] and locatortype xpathis present
+2021-07-01 16:47:01,295 : INFO : TestResultStatus : ##Validation is pass for Login Test
+2021-07-01 16:47:01,295 : INFO : TestResultStatus : Test Case test_loginpassed
+2021-07-01 16:47:01,316 : INFO : SeleniumDrivers : Element with locatortype css and locator [name='course'] is returned
+2021-07-01 16:47:01,428 : INFO : SeleniumDrivers : Data with locatortype css and locator [name='course'] is send
+2021-07-01 16:47:01,444 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='fa-search'] is returned
+2021-07-01 16:47:01,535 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='fa-search'] is clicked
+2021-07-01 16:47:01,559 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //h4[@class='dynamic-heading' and contains(text(),'JavaScript')] is returned
+2021-07-01 16:47:07,830 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //h4[@class='dynamic-heading' and contains(text(),'JavaScript')] is clicked
+2021-07-01 16:47:07,859 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //h1[contains(@class, 'dynamic-heading')] is returned
+2021-07-01 16:47:07,978 : INFO : SeleniumDrivers : Text returned for element with locator //h1[contains(@class, 'dynamic-heading')] and locatortype xpath is JavaScript for beginners
+2021-07-01 16:47:07,978 : INFO : TestResultStatus : ##Validation is pass for Selected Course
+2021-07-01 16:47:07,979 : INFO : TestResultStatus : Test Case test_selectandvalidatecoursepassed
+2021-07-01 16:47:07,999 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //button[contains(@class, 'dynamic-button')] is returned
+2021-07-01 16:47:17,590 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //button[contains(@class, 'dynamic-button')] is clicked
+2021-07-01 16:47:17,610 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='sp-buy'] is returned
+2021-07-01 16:47:18,132 : INFO : SeleniumDrivers : scrolled to element with locator [class*='sp-buy'] and locatortype css
+2021-07-01 16:47:18,157 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //iframe[contains(@title, 'Secure card number')] is returned
+2021-07-01 16:47:18,497 : INFO : SeleniumDrivers : switched to frame with locator //iframe[contains(@title, 'Secure card number')] and locatortype xpath
+2021-07-01 16:47:18,518 : INFO : SeleniumDrivers : Element with locatortype css and locator [placeholder='Card Number'] is returned
+2021-07-01 16:47:18,841 : INFO : SeleniumDrivers : Data with locatortype css and locator [placeholder='Card Number'] is send
+2021-07-01 16:47:18,848 : INFO : SeleniumDrivers : switched to default from frame
+2021-07-01 16:47:18,880 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //iframe[contains(@title, 'Secure expiration date')] is returned
+2021-07-01 16:47:19,480 : INFO : SeleniumDrivers : switched to frame with locator //iframe[contains(@title, 'Secure expiration date')] and locatortype xpath
+2021-07-01 16:47:19,496 : INFO : SeleniumDrivers : Element with locatortype css and locator [placeholder='MM / YY'] is returned
+2021-07-01 16:47:19,611 : INFO : SeleniumDrivers : Data with locatortype css and locator [placeholder='MM / YY'] is send
+2021-07-01 16:47:19,617 : INFO : SeleniumDrivers : switched to default from frame
+2021-07-01 16:47:19,954 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //iframe[contains(@title, 'Secure CVC')] is returned
+2021-07-01 16:47:19,981 : INFO : SeleniumDrivers : switched to frame with locator //iframe[contains(@title, 'Secure CVC')] and locatortype xpath
+2021-07-01 16:47:20,000 : INFO : SeleniumDrivers : Element with locatortype css and locator [placeholder='Security Code'] is returned
+2021-07-01 16:47:20,098 : INFO : SeleniumDrivers : Data with locatortype css and locator [placeholder='Security Code'] is send
+2021-07-01 16:47:20,106 : INFO : SeleniumDrivers : switched to default from frame
+2021-07-01 16:47:20,218 : INFO : SeleniumDrivers : Element with locatortype name and locator country-list is returned
+2021-07-01 16:47:20,555 : INFO : SeleniumDrivers : Dropdown with locator country-listand locatortype name is selected with visible text Haiti
+2021-07-01 16:47:20,565 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='sp-buy'] is returned
+2021-07-01 16:47:20,808 : INFO : SeleniumDrivers : Element with locatortype css and locator [class*='sp-buy'] is clicked
+2021-07-01 16:47:22,482 : INFO : SeleniumDrivers : waiting for presence of locator //li[contains(@class, 'card-no')]/span and locatortypexpath
+2021-07-01 16:47:22,494 : INFO : SeleniumDrivers : Element with locatortype xpath and locator //li[contains(@class, 'card-no')]/span is returned
+2021-07-01 16:47:22,516 : INFO : SeleniumDrivers : Text returned for element with locator //li[contains(@class, 'card-no')]/span and locatortype xpath is Your card was declined. Your request was in live mode, but used a known test card.
+2021-07-01 16:47:22,516 : INFO : TestResultStatus : ##Validation is pass for Enroll and Payment
+2021-07-01 16:47:22,516 : INFO : TestResultStatus : Test Case test_Enrollpassed
